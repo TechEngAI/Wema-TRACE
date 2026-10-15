@@ -1,0 +1,2 @@
+timestamp,reference,amount,currency,action,status,session_id,rrn,beneficiary_account,narration
+2026-10-14T22:15:35.000+01:00,TXN-RCV-882194,8500000,NGN,CREDIT,PENDING,100004241014221530120194820,004819204812,2098765432,Inward NIP from Access
